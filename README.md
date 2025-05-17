@@ -35,11 +35,11 @@
 
 1. مخزن را کلون کنید:
    ```bash
-   git clone https://github.com/username/go-learning.git
+   git clone https://github.com/mohammadreza/goku.git
    ```
 2. به پوشه پروژه بروید:
    ```bash
-   cd go-learning
+   cd goku
    ```
 3. فایل‌های Markdown در پوشه `chapters` را مطالعه کنید.
 4. کدهای نمونه را در محیط Go اجرا کنید.
