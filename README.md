@@ -35,7 +35,7 @@
 
 1. مخزن را کلون کنید:
    ```bash
-   git clone https://github.com/mohammadreza/goku.git
+   git clone https://github.com/mohammadrezaamani/goku.git
    ```
 2. به پوشه پروژه بروید:
    ```bash
